@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KynoVandeVelde
 - 👀 I’m interested in Formula 1
-- 🌱 I’m currently learning SAP UI5
-- 📫 How to reach me: kyno.vandevelde@student.hogent.be
+- 🌱 I’m currently developing Studyfile
+- 📫 How to reach me: kyno1204@gmail.com
 
 <!---
 KynoVandeVelde/KynoVandeVelde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
